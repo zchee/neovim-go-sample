@@ -1,3 +1,5 @@
+`git filter-branch --subdirectory-filter` github.com/myitcv/neovim/example
+
 ## `github.com/myitcv/neovim/example`
 
 A bare-bones example of a Neovim plugin written in Go
